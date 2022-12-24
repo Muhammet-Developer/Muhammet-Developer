@@ -7,7 +7,7 @@ ___
 - 👨‍💻 I’m currently learning Full Stack and DevOps
 - 💞️ I’m looking to collaborate on Full Stack and DevOps
 - ✉  How to reach me muhammettctnky@gmail.com
-- 📫 Linkedin = ```www.linkedin.com/in/muhammet-çetinkaya```
+- 📫 Linkedin = www.linkedin.com/in/muhammet-çetinkaya
 |
 
 ___
