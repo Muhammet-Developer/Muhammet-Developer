@@ -1,7 +1,7 @@
 ![Başlıksız-1-removebg-preview (1)](https://user-images.githubusercontent.com/108489800/177048886-f3fdbe2e-bdac-4b85-ae4e-dbae8c04f039.png)
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Muhammet Cetinkaya" width="320" height="200">
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Muhammet Cetinkaya" width="400" height="300">
 # 💫 About Me:
-- 👋 Hi, I’m @Muhammet<br>- 👀 I’m interested in IT<br>- 👨‍💻 I’m currently learning Full Stack and DevOps<br>- 💞️ I’m looking to collaborate on Full Stack and DevOps<br>- ✉  How to reach me muhammettctnky@gmail.com<br>- 📫 Linkedin = www.linkedin.com/in/muhammet-çetinkaya
+- 👋 Hi, I’m @Muhammet<br>- 👀 I’m interested in IT<br>- 👨‍💻 I’m currently learning FrontEnd Developer and DevOps<br>- 💞️ I’m looking to collaborate on FrontEnd Developer and DevOps<br>- ✉  How to reach me muhammettctnky@gmail.com<br>- 📫 Linkedin = www.linkedin.com/in/muhammet-çetinkaya
 
 
 ## 🌐 Socials:
