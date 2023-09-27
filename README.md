@@ -1,5 +1,5 @@
 <div align="center">
-![Başlıksız-1-removebg-preview (1)](https://user-images.githubusercontent.com/108489800/177048886-f3fdbe2e-bdac-4b85-ae4e-dbae8c04f039.png)
+<img src="https://user-images.githubusercontent.com/108489800/177048886-f3fdbe2e-bdac-4b85-ae4e-dbae8c04f039.png" alt="Muhammet Cetinkaya" width="247" height="253">
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Muhammet Cetinkaya" width="400" height="300">
 </div>
 # 💫 About Me:
